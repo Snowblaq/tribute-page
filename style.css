@@ -61,6 +61,14 @@ p.rem{
     font-size: 14.5px;
     font-family:'Poppins', sans-serif;
     margin-bottom: 80px;
+    text-decoration: none;
+}
+a.fin{
+    color: rgb(20, 176, 238);
+    text-decoration: none;
+}
+a.fin:hover{
+    text-decoration: underline 1px solid rgb(20, 176, 238); 
 }
 h3{
     text-align: left;
